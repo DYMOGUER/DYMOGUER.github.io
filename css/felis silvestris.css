@@ -1,0 +1,39 @@
+nav {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding-top: 20px;	
+	padding-left: 5%;
+	padding-right: 5%;
+	font-weight: bold;
+	background-image: url(../img/noc.jpg);
+}
+.nv h1 {
+	color: white;
+	font-size: 45px;
+}
+ul li {
+	display: inline-block;
+	padding: 0px 20px;
+}
+a{
+	color: white;
+	text-decoration: none;
+}
+
+
+.arriba{
+    position: fixed;
+    width: 40px;
+    width: 40px;
+    background: rgb(30, 29, 30);
+    bottom: 40px;
+    right: 50px;
+
+    text-decoration: none;
+    text-align: center;
+    line-height: 50px;
+    color: white;
+    font-size: 22px;
+    
+}

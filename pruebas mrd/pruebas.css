@@ -1,0 +1,28 @@
+.acordeon{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+section{
+    
+    padding: 40px;
+    background: rgb(226,226,226);
+    margin: auto;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    gap:20px;
+}
+
+summary{
+    background: rgb(91, 3, 139);
+    color: white;
+    padding: 20px;
+    cursor: pointer;
+}
+.acr{
+    padding: 10px;
+    background: white;
+    color: black;
+}
